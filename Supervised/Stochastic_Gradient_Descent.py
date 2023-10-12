@@ -22,7 +22,7 @@ def SGD(X, y, learning_rate=0.01, epochs=100,tol=1e-4):
             print(f"Converged after {e} epochs.")
             break
 
-        loss = loss
+        loss = loss-nloss
 
     # Return the final weights
     return weights
