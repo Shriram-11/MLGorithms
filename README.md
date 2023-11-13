@@ -7,6 +7,8 @@ Welcome to MLGorithms: Fun-Learn-Code-Repeat! This repository is your playground
 The following algorithms are implemented:
 
 1. Stochastic Gradient Descent (SGD)
+2. Linear Regression
+3. Logistic Regression
 
 ## Usage
 
